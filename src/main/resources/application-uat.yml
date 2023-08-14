@@ -1,0 +1,6 @@
+logging:
+#  level:
+#    root: warn
+#    tr.org.ji.pokedex: info
+  file:
+    name: pokedex.log
